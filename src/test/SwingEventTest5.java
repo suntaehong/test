@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 public class SwingEventTest5 extends JFrame 
 {
 	/**
-	 * 
+	 * test
 	 */
 	private static final long serialVersionUID = 1L;
 	
